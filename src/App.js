@@ -6,7 +6,7 @@ function App() {
         <form className="search-box">
           <input type="search" placeholder="Search.." />
         </form>
-        <p>Search Results: </p>
+        <p className="search-results">Search Results: </p>
       </header>
       <div className="results">
         <div className="result">
