@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+
 function Home() {
   const [search, setSearch] = useState('');
   const [results, setResults] = useState([]);
@@ -32,7 +33,7 @@ function Home() {
         </form>
         {searchInfo.totalhits ? (
           <p className="search-results">
-            Search Results: {searchInfo.totalhits}{' '}
+            Search Results: {searchInfo.totalhits}
           </p>
         ) : (
           ''
@@ -44,9 +45,7 @@ function Home() {
           return (
             <div className="result" key={i}>
               <h3>{result.title}</h3>
-              <p
-                dangerouslySetInnerHTML={{ __html: result.snippet + '...' }}
-              ></p>
+              <p dangerouslySetInnerHTML={{ __html: result.snippet + '...' }} />
               <a href={url} target="_blank" rel="noreferrer">
                 Read more
               </a>
