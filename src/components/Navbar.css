@@ -41,6 +41,5 @@ body {
 }
 
 .nav li:hover {
-    background-color: #A84FFF;
-    opacity: 0.6;
+    background-color: rgb(168, 79, 255, 0.6);
 }
