@@ -43,3 +43,8 @@ body {
 .nav li:hover {
     background-color: rgb(168, 79, 255, 0.6);
 }
+
+img {
+    height: 60%;
+    margin-right: 4px;
+}
