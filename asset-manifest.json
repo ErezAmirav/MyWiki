@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mywiki/static/css/main.f06b5e51.css",
+    "main.js": "/mywiki/static/js/main.378d9652.js",
+    "static/media/Rubik.ttf": "/mywiki/static/media/Rubik.3a8e5377732eefcf42fb.ttf",
+    "index.html": "/mywiki/index.html",
+    "main.f06b5e51.css.map": "/mywiki/static/css/main.f06b5e51.css.map",
+    "main.378d9652.js.map": "/mywiki/static/js/main.378d9652.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f06b5e51.css",
+    "static/js/main.378d9652.js"
+  ]
+}
