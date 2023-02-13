@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mywiki/static/css/main.f06b5e51.css",
-    "main.js": "/mywiki/static/js/main.abd87c31.js",
+    "main.js": "/mywiki/static/js/main.e40e71d9.js",
     "static/media/Rubik.ttf": "/mywiki/static/media/Rubik.3a8e5377732eefcf42fb.ttf",
     "index.html": "/mywiki/index.html",
     "main.f06b5e51.css.map": "/mywiki/static/css/main.f06b5e51.css.map",
-    "main.abd87c31.js.map": "/mywiki/static/js/main.abd87c31.js.map"
+    "main.e40e71d9.js.map": "/mywiki/static/js/main.e40e71d9.js.map"
   },
   "entrypoints": [
     "static/css/main.f06b5e51.css",
-    "static/js/main.abd87c31.js"
+    "static/js/main.e40e71d9.js"
   ]
 }
