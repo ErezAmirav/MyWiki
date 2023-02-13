@@ -7,7 +7,7 @@ import Account from './pages/Account'
 
 function App() {
   return (
-    <Router>
+    <Router basename='/'>
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
